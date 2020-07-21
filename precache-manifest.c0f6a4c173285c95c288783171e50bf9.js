@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "463d2eb492d3aa12d40f6b96901e139a",
+    "revision": "044010c1430ac6b66f7d205ead178dc9",
     "url": "/threeJS-react-list/index.html"
   },
   {
-    "revision": "87f19936fb1b69eeecbd",
+    "revision": "f91fdc713afd9258308c",
     "url": "/threeJS-react-list/static/css/main.62a62507.chunk.css"
   },
   {
-    "revision": "a5bff989411b79e5a173",
-    "url": "/threeJS-react-list/static/js/2.86b31ab7.chunk.js"
+    "revision": "5386950fc89bb0db041b",
+    "url": "/threeJS-react-list/static/js/2.8633b8cb.chunk.js"
   },
   {
     "revision": "ecaf26ec1f5ba81a6d91b523a0dddab6",
-    "url": "/threeJS-react-list/static/js/2.86b31ab7.chunk.js.LICENSE.txt"
+    "url": "/threeJS-react-list/static/js/2.8633b8cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87f19936fb1b69eeecbd",
-    "url": "/threeJS-react-list/static/js/main.08ec38c9.chunk.js"
+    "revision": "f91fdc713afd9258308c",
+    "url": "/threeJS-react-list/static/js/main.37b0ba58.chunk.js"
   },
   {
     "revision": "d836b8b9273902977a45",
@@ -48,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/threeJS-react-list/static/media/parcel.f339e5a8.png"
   },
   {
+    "revision": "5bfc6aeb08b4fb79d4cd12df590cd524",
+    "url": "/threeJS-react-list/static/media/react-bootstrap.5bfc6aeb.png"
+  },
+  {
     "revision": "8e28a36564cfc9ec6febf8fed78b3790",
     "url": "/threeJS-react-list/static/media/redux.8e28a365.png"
   },
@@ -56,7 +60,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/threeJS-react-list/static/media/sass.4cc2c67f.png"
   },
   {
+    "revision": "d44e449986dd1fb228be9910cefc8e70",
+    "url": "/threeJS-react-list/static/media/sequelize.d44e4499.png"
+  },
+  {
     "revision": "5807fde028a274a2c8721c1b39666d9f",
     "url": "/threeJS-react-list/static/media/sql.5807fde0.png"
+  },
+  {
+    "revision": "895991d4ec14bf69d192cc0865c1c3f4",
+    "url": "/threeJS-react-list/static/media/styled-components.895991d4.png"
   }
 ]);
